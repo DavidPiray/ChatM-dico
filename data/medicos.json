@@ -1,0 +1,219 @@
+[
+  {
+    "nombres": "Juan Perez",
+    "especialidad": "Cardiólogo",
+    "correo": "juan@gmail.com",
+    "celular": "0998765432",
+    "ciudad": "Quito"
+  },
+  {
+    "nombres": "Dr. Ana Martinez",
+    "especialidad": "Cardiólogo",
+    "correo": "ana.martinez@gmail.com",
+    "celular": "0998765432",
+    "ciudad": "Quito"
+  },
+  {
+    "nombres": "Maria Sanchez",
+    "especialidad": "Dermatólogo",
+    "correo": "maria@gmail.com",
+    "celular": "0998765433",
+    "ciudad": "Guayaquil"
+  },
+  {
+    "nombres": "Carlos Gomez",
+    "especialidad": "Pediatra",
+    "correo": "carlos@gmail.com",
+    "celular": "0998765434",
+    "ciudad": "Cuenca"
+  },
+  {
+    "nombres": "Ana Martinez",
+    "especialidad": "Ginecologo",
+    "correo": "ana@gmail.com",
+    "celular": "0998765435",
+    "ciudad": "Quito"
+  },
+  {
+    "nombres": "Luis Fernandez",
+    "especialidad": "Neurólogo",
+    "correo": "luis@gmail.com",
+    "celular": "0998765436",
+    "ciudad": "Loja"
+  },
+  {
+    "nombres": "Sofia Torres",
+    "especialidad": "Oftalmólogo",
+    "correo": "sofia@gmail.com",
+    "celular": "0998765437",
+    "ciudad": "Manta"
+  },
+  {
+    "nombres": "Diego Ramirez",
+    "especialidad": "Oncólogo",
+    "correo": "diego@gmail.com",
+    "celular": "0998765438",
+    "ciudad": "Quito"
+  },
+  {
+    "nombres": "Laura Vargas",
+    "especialidad": "Psiquiatra",
+    "correo": "laura@gmail.com",
+    "celular": "0998765439",
+    "ciudad": "Ambato"
+  },
+  {
+    "nombres": "Fernando Castillo",
+    "especialidad": "Urólogo",
+    "correo": "fernando@gmail.com",
+    "celular": "0998765440",
+    "ciudad": "Guayaquil"
+  },
+  {
+    "nombres": "Patricia Ortiz",
+    "especialidad": "Endocrinólogo",
+    "correo": "patricia@gmail.com",
+    "celular": "0998765441",
+    "ciudad": "Riobamba"
+  },
+  {
+    "nombres": "Ricardo Molina",
+    "especialidad": "Neumólogo",
+    "correo": "ricardo@gmail.com",
+    "celular": "0998765442",
+    "ciudad": "Cuenca"
+  },
+  {
+    "nombres": "Andrea Lopez",
+    "especialidad": "Gastroenterólogo",
+    "correo": "andrea@gmail.com",
+    "celular": "0998765443",
+    "ciudad": "Quito"
+  },
+  {
+    "nombres": "Jorge Reyes",
+    "especialidad": "Reumatólogo",
+    "correo": "jorge@gmail.com",
+    "celular": "0998765444",
+    "ciudad": "Guayaquil"
+  },
+  {
+    "nombres": "Monica Ruiz",
+    "especialidad": "Nefrólogo",
+    "correo": "monica@gmail.com",
+    "celular": "0998765445",
+    "ciudad": "Machala"
+  },
+  {
+    "nombres": "Hugo Paredes",
+    "especialidad": "Infectólogo",
+    "correo": "hugo@gmail.com",
+    "celular": "0998765446",
+    "ciudad": "Portoviejo"
+  },
+  {
+    "nombres": "Silvia Moreno",
+    "especialidad": "Traumatólogo",
+    "correo": "silvia@gmail.com",
+    "celular": "0998765447",
+    "ciudad": "Quito"
+  },
+  {
+    "nombres": "Javier Suarez",
+    "especialidad": "Hematólogo",
+    "correo": "javier@gmail.com",
+    "celular": "0998765448",
+    "ciudad": "Guayaquil"
+  },
+  {
+    "nombres": "Isabel Fuentes",
+    "especialidad": "Otorrinolaringólogo",
+    "correo": "isabel@gmail.com",
+    "celular": "0998765449",
+    "ciudad": "Ibarra"
+  },
+  {
+    "nombres": "Francisco Espinosa",
+    "especialidad": "Geriatra",
+    "correo": "francisco@gmail.com",
+    "celular": "0998765450",
+    "ciudad": "Santo Domingo"
+  },
+  {
+    "nombres": "Gabriela Aguilar",
+    "especialidad": "Allergólogo",
+    "correo": "gabriela@gmail.com",
+    "celular": "0998765451",
+    "ciudad": "Quito"
+  },
+  {
+    "nombres": "Juan Pérez",
+    "especialidad": "Cardiólogo",
+    "correo": "juan.pérez@gmail.com",
+    "celular": "0968545944",
+    "ciudad": "Guayaquil"
+  },
+  {
+    "nombres": "Luis Martínez",
+    "especialidad": "Cardiólogo",
+    "correo": "luis.martínez@gmail.com",
+    "celular": "09296313178",
+    "ciudad": "Riobamba"
+  },
+  {
+    "nombres": "Maria Fernández",
+    "especialidad": "Cardiólogo",
+    "correo": "maria.fernández@gmail.com",
+    "celular": "09346420789",
+    "ciudad": "Macas"
+  },
+  {
+    "nombres": "Juan Pérez",
+    "especialidad": "Cardiólogo",
+    "correo": "juan.pérez@gmail.com",
+    "celular": "09852135472",
+    "ciudad": "puyo"
+  },
+  {
+    "nombres": "Carlos García",
+    "especialidad": "Hematólogo",
+    "correo": "carlos.garcía@gmail.com",
+    "celular": "09330595115",
+    "ciudad": "quito"
+  },
+  {
+    "nombres": "Andrea Molina",
+    "especialidad": "Hepatólogo",
+    "correo": "andrea.molina@gmail.com",
+    "celular": "09869561240",
+    "ciudad": "Quito"
+  },
+  {
+    "nombres": "Jose Torres",
+    "especialidad": "Cirujano",
+    "correo": "jose.torres@gmail.com",
+    "celular": "09901201212",
+    "ciudad": "Quito"
+  },
+  {
+    "nombres": "Isabel Jiménez",
+    "especialidad": "Cardiólogo",
+    "correo": "isabel.jiménez@gmail.com",
+    "celular": "09879995773",
+    "ciudad": "Quevedo"
+  },
+  {
+    "nombres": "Nuevo Médico",
+    "especialidad": "Cardiólogo",
+    "correo": "nuevo.medico@gmail.com",
+    "celular": "0991234567",
+    "ciudad": "Machala"
+  },
+  {
+    "nombres": "Vanessa Heredia",
+    "especialidad": "Cardiólogo",
+    "correo": "vane@gmail.com",
+    "celular": "0991234567",
+    "ciudad": "Machala"
+  }
+]

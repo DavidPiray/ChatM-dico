@@ -1,0 +1,235 @@
+[
+    {
+      "nombre": "Diabetes",
+      "descripcion": "Una enfermedad crónica que afecta la manera en que el cuerpo convierte los alimentos en energía.",
+      "sintomas_comunes": ["Sed excesiva", "Micción frecuente", "Hambre extrema"],
+      "posibles_causas": ["Genética", "Estilo de vida poco saludable"],
+      "como_evitarlo": ["Mantener un peso saludable", "Dieta equilibrada", "Ejercicio regular"],
+      "especialista": "Endocrinólogo"
+    },
+    {
+      "nombre": "Hipertensión",
+      "descripcion": "Una condición en la cual la fuerza de la sangre contra las paredes de las arterias es demasiado alta.",
+      "sintomas_comunes": ["Dolores de cabeza", "Dificultad para respirar", "Sangrado nasal"],
+      "posibles_causas": ["Genética", "Obesidad", "Consumo excesivo de sal"],
+      "como_evitarlo": ["Dieta baja en sal", "Ejercicio regular", "Evitar el tabaco"],
+      "especialista": "Cardiólogo"
+    },
+    {
+      "nombre": "Asma",
+      "descripcion": "Una condición en la que las vías respiratorias se estrechan y se hinchan, produciendo mucosidad adicional.",
+      "sintomas_comunes": ["Dificultad para respirar", "Opresión en el pecho", "Sibilancias"],
+      "posibles_causas": ["Alergias", "Genética", "Infecciones respiratorias"],
+      "como_evitarlo": ["Evitar alérgenos", "Uso de inhaladores", "Evitar el humo de tabaco"],
+      "especialista": "Neumólogo"
+    },
+    {
+      "nombre": "Artritis",
+      "descripcion": "Inflamación de una o más articulaciones, causando dolor y rigidez.",
+      "sintomas_comunes": ["Dolor en las articulaciones", "Hinchazón", "Rigidez"],
+      "posibles_causas": ["Desgaste normal", "Infecciones", "Enfermedades autoinmunes"],
+      "como_evitarlo": ["Mantener un peso saludable", "Ejercicio regular", "Evitar lesiones"],
+      "especialista": "Reumatólogo"
+    },
+    {
+      "nombre": "Gastritis",
+      "descripcion": "Inflamación, irritación o erosión del revestimiento del estómago.",
+      "sintomas_comunes": ["Dolor abdominal", "Náuseas", "Vómitos"],
+      "posibles_causas": ["Infección bacteriana", "Consumo excesivo de alcohol", "Estrés"],
+      "como_evitarlo": ["Dieta balanceada", "Evitar el alcohol", "Reducir el estrés"],
+      "especialista": "Gastroenterólogo"
+    },
+    {
+      "nombre": "Anemia",
+      "descripcion": "Condición en la que el cuerpo no tiene suficientes glóbulos rojos sanos.",
+      "sintomas_comunes": ["Fatiga", "Debilidad", "Piel pálida"],
+      "posibles_causas": ["Deficiencia de hierro", "Pérdida de sangre", "Enfermedades crónicas"],
+      "como_evitarlo": ["Dieta rica en hierro", "Suplementos de hierro", "Tratamiento de enfermedades subyacentes"],
+      "especialista": "Hematólogo"
+    },
+    {
+      "nombre": "Migraña",
+      "descripcion": "Un dolor de cabeza severo y recurrente, a menudo acompañado de náuseas y sensibilidad a la luz.",
+      "sintomas_comunes": ["Dolor de cabeza intenso", "Náuseas", "Sensibilidad a la luz y al sonido"],
+      "posibles_causas": ["Factores genéticos", "Estrés", "Ciertos alimentos"],
+      "como_evitarlo": ["Identificar y evitar desencadenantes", "Manejo del estrés", "Medicación preventiva"],
+      "especialista": "Neurológo"
+    },
+    {
+      "nombre": "Dermatitis",
+      "descripcion": "Inflamación de la piel que causa picazón, hinchazón y enrojecimiento.",
+      "sintomas_comunes": ["Picazón", "Enrojecimiento", "Hinchazón"],
+      "posibles_causas": ["Alergias", "Contacto con irritantes", "Factores genéticos"],
+      "como_evitarlo": ["Evitar alérgenos", "Uso de cremas hidratantes", "Tratamiento médico"],
+      "especialista": "Dermatólogo"
+    },
+    {
+      "nombre": "Gripe",
+      "descripcion": "Infección viral que ataca el sistema respiratorio, incluyendo la nariz, garganta y pulmones.",
+      "sintomas_comunes": ["Fiebre", "Escalofríos", "Dolor de garganta"],
+      "posibles_causas": ["Virus de la influenza", "Contacto cercano con personas infectadas"],
+      "como_evitarlo": ["Vacunación anual", "Higiene adecuada", "Evitar el contacto con personas enfermas"],
+      "especialista": "Médico General"
+    },
+    {
+      "nombre": "Alergias",
+      "descripcion": "Reacciones del sistema inmunitario a sustancias extrañas que normalmente no son dañinas.",
+      "sintomas_comunes": ["Estornudos", "Picazón", "Erupciones cutáneas"],
+      "posibles_causas": ["Polen", "Ácaros del polvo", "Alimentos específicos"],
+      "como_evitarlo": ["Evitar alérgenos conocidos", "Uso de antihistamínicos", "Inmunoterapia"],
+      "especialista": "Alergólogo"
+    },
+    {
+      "nombre": "Neumonía",
+      "descripcion": "Infección que inflama los sacos aéreos de uno o ambos pulmones, los cuales pueden llenarse de líquido.",
+      "sintomas_comunes": ["Tos con flema", "Fiebre", "Dificultad para respirar"],
+      "posibles_causas": ["Bacterias", "Virus", "Hongos"],
+      "como_evitarlo": ["Vacunación", "Buena higiene", "Evitar fumar"],
+      "especialista": "Neumólogo"
+    },
+    {
+      "nombre": "Cistitis",
+      "descripcion": "Inflamación de la vejiga, generalmente causada por una infección bacteriana.",
+      "sintomas_comunes": ["Dolor al orinar", "Necesidad urgente de orinar", "Orina turbia"],
+      "posibles_causas": ["Infección bacteriana", "Irritantes químicos", "Radioterapia"],
+      "como_evitarlo": ["Higiene adecuada", "Beber líquidos en abundancia", "Evitar irritantes"],
+      "especialista": "Urólogo"
+    },
+    {
+      "nombre": "Bronquitis",
+      "descripcion": "Inflamación del revestimiento de los bronquios, los cuales transportan aire hacia y desde los pulmones.",
+      "sintomas_comunes": ["Tos", "Producción de moco", "Fatiga"],
+      "posibles_causas": ["Infecciones virales", "Tabaquismo", "Exposición a irritantes"],
+      "como_evitarlo": ["No fumar", "Evitar irritantes", "Vacunación"],
+      "especialista": "Neumólogo"
+    },
+    {
+      "nombre": "Gota",
+      "descripcion": "Una forma de artritis caracterizada por dolor severo, enrojecimiento y sensibilidad en las articulaciones.",
+      "sintomas_comunes": ["Dolor intenso en las articulaciones", "Hinchazón", "Enrojecimiento"],
+      "posibles_causas": ["Dieta alta en purinas", "Genética", "Obesidad"],
+      "como_evitarlo": ["Dieta baja en purinas", "Hidratación adecuada", "Control del peso"],
+      "especialista": "Reumatólogo"
+    },
+    {
+      "nombre": "Hepatitis",
+      "descripcion": "Inflamación del hígado causada por infecciones virales, consumo de alcohol, y otras causas.",
+      "sintomas_comunes": ["Ictericia", "Fatiga", "Dolor abdominal"],
+      "posibles_causas": ["Virus", "Consumo de alcohol", "Enfermedades autoinmunes"],
+      "como_evitarlo": ["Vacunación", "Evitar el alcohol", "Buena higiene"],
+      "especialista": "Hepatólogo"
+    },
+    {
+      "nombre": "Psoriasis",
+      "descripcion": "Una enfermedad autoinmune que provoca una acumulación rápida de células en la superficie de la piel.",
+      "sintomas_comunes": ["Manchas rojas en la piel", "Picazón", "Escamas plateadas"],
+      "posibles_causas": ["Factores genéticos", "Infecciones", "Estrés"],
+      "como_evitarlo": ["Evitar desencadenantes", "Tratamiento médico", "Hidratación adecuada"],
+      "especialista": "Dermatólogo"
+    },
+    {
+      "nombre": "Hernia",
+      "descripcion": "Ocurre cuando un órgano empuja a través de una abertura en el músculo o tejido que lo mantiene en su lugar.",
+      "sintomas_comunes": ["Bulto en el abdomen", "Dolor en el área afectada", "Malestar"],
+      "posibles_causas": ["Levantamiento de objetos pesados", "Obesidad", "Tos crónica"],
+      "como_evitarlo": ["Evitar levantar objetos pesados", "Mantener un peso saludable", "Evitar el esfuerzo excesivo"],
+      "especialista": "Cirujano"
+    },
+    {
+      "nombre": "Cáncer",
+      "descripcion": "Grupo de enfermedades caracterizadas por el crecimiento incontrolado de células anormales.",
+      "sintomas_comunes": ["Pérdida de peso inexplicable", "Fatiga", "Cambios en la piel"],
+      "posibles_causas": ["Mutaciones genéticas", "Exposición a carcinógenos", "Estilo de vida"],
+      "como_evitarlo": ["Evitar el tabaco", "Dieta saludable", "Protección contra el sol"],
+      "especialista": "Oncólogo"
+    },
+    {
+      "nombre": "Esclerosis múltiple",
+      "descripcion": "Una enfermedad en la que el sistema inmunitario ataca la cubierta protectora de los nervios.",
+      "sintomas_comunes": ["Problemas de visión", "Debilidad muscular", "Fatiga"],
+      "posibles_causas": ["Genética", "Infecciones virales", "Factores ambientales"],
+      "como_evitarlo": ["No hay prevención conocida", "Tratamiento médico", "Ejercicio regular"],
+      "especialista": "Neurólogo"
+    },
+    {
+      "nombre": "Enfermedad de Alzheimer",
+      "descripcion": "Trastorno neurodegenerativo que provoca pérdida de memoria y otras habilidades cognitivas.",
+      "sintomas_comunes": ["Pérdida de memoria", "Confusión", "Dificultad para realizar tareas cotidianas"],
+      "posibles_causas": ["Factores genéticos", "Envejecimiento", "Factores ambientales"],
+      "como_evitarlo": ["Ejercicio mental y físico", "Dieta saludable", "Control de factores de riesgo cardiovascular"],
+      "especialista": "Neurólogo"
+    },
+    {
+      "nombre": "Celiaquía",
+      "descripcion": "Enfermedad autoinmune en la que la ingestión de gluten daña el intestino delgado.",
+      "sintomas_comunes": ["Dolor abdominal", "Diarrea", "Fatiga"],
+      "posibles_causas": ["Genética", "Consumo de gluten"],
+      "como_evitarlo": ["Dieta libre de gluten"],
+      "especialista": "Gastroenterólogo"
+    },
+    {
+      "nombre": "Anorexia nerviosa",
+      "descripcion": "Trastorno alimentario caracterizado por una restricción extrema de la ingesta de alimentos.",
+      "sintomas_comunes": ["Bajo peso corporal", "Miedo intenso a ganar peso", "Imagen corporal distorsionada"],
+      "posibles_causas": ["Factores psicológicos", "Factores genéticos", "Presión social"],
+      "como_evitarlo": ["Terapia psicológica", "Tratamiento médico", "Apoyo nutricional"],
+      "especialista": "Psiquiatra"
+    },
+    {
+      "nombre": "Bulimia nerviosa",
+      "descripcion": "Trastorno alimentario caracterizado por episodios de atracones seguidos de conductas compensatorias como el vómito.",
+      "sintomas_comunes": ["Episodios de atracones", "Vómitos autoinducidos", "Preocupación por el peso y la figura"],
+      "posibles_causas": ["Factores psicológicos", "Factores genéticos", "Presión social"],
+      "como_evitarlo": ["Terapia psicológica", "Tratamiento médico", "Apoyo nutricional"],
+      "especialista": "Psiquiatra"
+    },
+    {
+      "nombre": "Trastorno de ansiedad",
+      "descripcion": "Condición mental caracterizada por una preocupación excesiva y persistente sobre diferentes aspectos de la vida.",
+      "sintomas_comunes": ["Preocupación excesiva", "Inquietud", "Problemas de sueño"],
+      "posibles_causas": ["Factores genéticos", "Estrés", "Experiencias traumáticas"],
+      "como_evitarlo": ["Terapia psicológica", "Manejo del estrés", "Medicación"],
+      "especialista": "Psiquiatra"
+    },
+    {
+      "nombre": "Depresión",
+      "descripcion": "Trastorno del estado de ánimo que causa una sensación persistente de tristeza y pérdida de interés.",
+      "sintomas_comunes": ["Tristeza persistente", "Pérdida de interés en actividades", "Cambios en el apetito y el sueño"],
+      "posibles_causas": ["Factores genéticos", "Química cerebral", "Experiencias traumáticas"],
+      "como_evitarlo": ["Terapia psicológica", "Medicación", "Ejercicio regular"],
+      "especialista": "Psiquiatra"
+    },
+    {
+      "nombre": "Enfermedad de Parkinson",
+      "descripcion": "Trastorno neurodegenerativo que afecta el movimiento, causando temblores y rigidez.",
+      "sintomas_comunes": ["Temblores", "Rigidez muscular", "Problemas de equilibrio"],
+      "posibles_causas": ["Factores genéticos", "Exposición a toxinas", "Envejecimiento"],
+      "como_evitarlo": ["No hay prevención conocida", "Tratamiento médico", "Ejercicio regular"],
+      "especialista": "Neurólogo"
+    },
+    {
+      "nombre": "Eczema",
+      "descripcion": "Condición en la que la piel se inflama, provocando picazón y enrojecimiento.",
+      "sintomas_comunes": ["Picazón", "Piel seca", "Enrojecimiento"],
+      "posibles_causas": ["Alergias", "Factores genéticos", "Irritantes"],
+      "como_evitarlo": ["Evitar desencadenantes", "Hidratación adecuada", "Tratamiento médico"],
+      "especialista": "Dermatólogo"
+    },
+    {
+      "nombre": "Úlcera péptica",
+      "descripcion": "Llaga en el revestimiento del estómago o del intestino delgado.",
+      "sintomas_comunes": ["Dolor abdominal", "Acidez estomacal", "Indigestión"],
+      "posibles_causas": ["Infección por H. pylori", "Uso excesivo de AINEs", "Estrés"],
+      "como_evitarlo": ["Dieta equilibrada", "Evitar AINEs", "Tratamiento de H. pylori"],
+      "especialista": "Gastroenterólogo"
+    },
+    {
+      "nombre": "Obesidad",
+      "descripcion": "Condición médica en la que el exceso de grasa corporal afecta negativamente la salud.",
+      "sintomas_comunes": ["Aumento de peso", "Fatiga", "Dificultad para respirar"],
+      "posibles_causas": ["Dieta poco saludable", "Falta de ejercicio", "Factores genéticos"],
+      "como_evitarlo": ["Dieta saludable", "Ejercicio regular", "Control del peso"],
+      "especialista": "Nutricionista"
+    }
+  ]
+  

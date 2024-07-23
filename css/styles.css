@@ -1,0 +1,120 @@
+/* Estilos generales para la página del chatbot */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    background: url('../img/im5.webp') no-repeat center center fixed;
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+.sidebar {
+    width: 200px;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.856); /* Fondo semi-transparente */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+}
+
+.container {
+    margin-left: 200px; /* Espacio para la barra lateral */ 
+    width: calc(100% - 200px); /* Ancho restante disponible */
+    height: 100%; /* Altura completa del contenedor */
+    background: rgba(0, 0, 0, 0.651); /* Fondo con transparencia */
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative; /* Para centrar el contenido dentro del contenedor */
+}
+
+h1 {
+    background-color: #e6a585; /* Azul médico */
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+
+.chat-box {
+    height: calc(100% - 85px); /* Ajuste de altura para ocupar el espacio restante */
+    width: 100%;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    overflow-y: auto;
+    font-size: 20px
+}
+
+.input-container {
+    display: flex;
+    border-top: 1px solid #ddd;
+    padding: 10px;
+    width: 100%;
+}
+
+input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+button {
+    padding: 20px;
+    background-color: #e6a585; /* Azul médico */
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e6a585; /* Azul más oscuro */
+}
+
+/* Estilo específico para el botón de regreso */
+.back-button {
+    background-color: #e6a585; /* Azul médico */
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+    background-color: #e6a585; /* Azul más oscuro */
+}
+
+/* Estilos para el botón de generar informe */
+.report-button {
+    background-color: #e6a585; /* Azul médico */
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.report-button:hover {
+    background-color: #e6a585; /* Azul más oscuro */
+}
